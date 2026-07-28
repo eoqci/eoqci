@@ -34,12 +34,8 @@
   <td><b> Services</b></td>
   <td>
     <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=c47500" />
-    <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white&labelColor=c47500" />
-    <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white&labelColor=2d4ecc" />
-    <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white&labelColor=cc1f63" />
     <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=b35a00" />
-    <img src="https://img.shields.io/badge/R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=b35a00" />
-    <img src="https://img.shields.io/badge/DNS-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=b35a00" />
+    <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000" />
   </td>
 </tr>
   <tr>
