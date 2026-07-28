@@ -1,6 +1,6 @@
 <h2 align="center">Hi there ✨ - My name is LQC (EOQCI)</h2>
 
-<p>I'm LQC. I'm working as a <b>Backend Developer</b>, using <b>Go, Rust</b> (sometimes <b>Javascript</b>). Especially this time, I starting to moving on, Rust gonna be my next place to stay.  I like to making things, creating stuffs. I do love playing video games. That's all. :D</p>
+<p>I'm LQC, a Rust enthusiast. Golang? Eh... no idea, though. Lately, I've been moving toward Rust—it's probably where I'll be staying for a while. I enjoy building things and creating random stuff. I also love playing video games. That's about it. :D</p>
  
 
 ## Tech Stack
