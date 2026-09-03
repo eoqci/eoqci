@@ -39,10 +39,9 @@
   </td>
 </tr>
   <tr>
-  <td><b> Others</b></td>
+  <td><b> Game Engine</b></td>
   <td>
     <img src="https://img.shields.io/badge/bevy engine-%23232326.svg?style=for-the-badge&logo=bevy&logoColor=white&labelColor=000000"/>
-    <img src="https://img.shields.io/badge/OpenGL-5587A6?style=for-the-badge&logo=opengl&logoColor=white&labelColor=2e4f6b" />
   </td>
 </tr>
 </table>
