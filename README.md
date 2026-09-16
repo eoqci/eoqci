@@ -45,10 +45,9 @@
 </tr>
 </table>
 
-## Stats
 
-<p align="center">
+<!-- <p align="center"> -->
   <!-- <img height="180em" src="https://github-readme-stats-three-beige-56.vercel.app/api?username=eoqci&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" /> -->
-  <img height="180em" src="https://github-readme-stats-three-beige-56.vercel.app/api/top-langs/?username=eoqci&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=typescript,makefile,tex" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=eoqci&theme=tokyonight&hide_border=true" />
-</p>
+  <!-- <img height="180em" src="https://github-readme-stats-three-beige-56.vercel.app/api/top-langs/?username=eoqci&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=typescript,makefile,tex" /> -->
+  <!-- <img height="180em" src="https://streak-stats.demolab.com?user=eoqci&theme=tokyonight&hide_border=true" /> -->
+<!-- </p> -->
