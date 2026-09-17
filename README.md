@@ -40,8 +40,10 @@
   <tr>
   <td><b> Game Engine</b></td>
   <td>
-    <img src="https://img.shields.io/badge/bevy engine-%23232326.svg?style=for-the-badge&logo=bevy&logoColor=white&labelColor=000000"/>
-   <img src="https://img.shields.io/badge/WGSL-%23232326.svg?style=for-the-badge&logo=webgpu&logoColor=white&labelColor=000000"/>
+   <img src="https://img.shields.io/badge/bevy%20engine-%23232326.svg?style=for-the-badge&logo=bevy&logoColor=white&labelColor=000000"/>
+   <img src="https://img.shields.io/badge/wgpu-%23232326.svg?style=for-the-badge&labelColor=000000"/>
+    <!-- <img src="https://img.shields.io/badge/bevy engine-%23232326.svg?style=for-the-badge&logo=bevy&logoColor=white&labelColor=000000"/> -->
+   <!-- <img src="https://img.shields.io/badge/WGSL-%23232326.svg?style=for-the-badge&logo=webgpu&logoColor=white&labelColor=000000"/> -->
   </td>
 </tr>
 </table>
