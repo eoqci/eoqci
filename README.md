@@ -1,6 +1,6 @@
-<h2 align="center">Hi there ✨ - My name is LQC (EOQCI)</h2>
+<!-- <h2 align="center">Hi there ✨ - My name is LQC (EOQCI)</h2>
 
-<p>I'm LQC, a Rust enthusiast. Golang? Eh... no idea, though. Lately, I've been moving toward Rust—it's probably where I'll be staying for a while. I enjoy building things and creating random stuff. I also love playing video games:D</p>
+<p>I'm LQC, a Rust enthusiast. Golang? Eh... no idea, though. Lately, I've been moving toward Rust—it's probably where I'll be staying for a while. I enjoy building things and creating random stuff. I also love playing video games:D</p> -->
  
 
 ## Tech Stack
